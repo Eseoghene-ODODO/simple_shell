@@ -1,1 +1,1 @@
-Solutions to the simple shell prject.
+Solutions to the simple shell project.
